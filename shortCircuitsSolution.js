@@ -22,7 +22,7 @@ let i = false || console.log("This will print"); // returns undefined
 
 //set t so that v contains "hello"
 //do not use true or false
-let t = "hello"; 
+let t = 1; 
 let u = "hello"; 
 let v = t && u;      
 
@@ -38,3 +38,4 @@ console.log(h); // true
 console.log(i); // undefined
 console.log(v); // hello
 console.log(z); // 0
+
