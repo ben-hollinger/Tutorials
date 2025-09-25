@@ -57,7 +57,7 @@ let getDictionary = function (lang)
         case 2:
             return 'deux';
         case 3:
-            return 'troix';
+            return 'trois';
        }   
     }
 
