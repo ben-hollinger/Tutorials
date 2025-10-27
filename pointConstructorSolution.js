@@ -66,7 +66,8 @@ function Point(x, y) {
  Do not change the print statements */
 let p2 =  new Point(3,4);// make with constructor function
 p2.print();
-p2 = new Point(800, 85);//make with constructor function
+p2 = new Point(10, 15);//make with constructor function
 p2.print();
-p2 = new Point(8008135, 8);//make with constructor function
+p2 = new Point(-2, 8);//make with constructor function
 p2.print();
+
